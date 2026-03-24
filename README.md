@@ -16,7 +16,7 @@ I'm an old unix grey beard with over 30 years in IT and and since 2018 I've been
 
 - **Virtualization**: Enterprise virtualization platforms and architecture
 - **Linux & Unix**: System administration and engineering
-- **Storage Area Networks (SAN)**: Design and implementation of enterprise storage solutions
+- **Storage Area Networks (SAN)**: Design and implementation of enterprise storage solutions and fibre channel networks
 - **High Availability Clusters**: Building and maintaining large-scale HA Unix and Linux clusters
 - **System Automation**: Automation with python and shell
 
