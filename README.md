@@ -11,7 +11,7 @@ I'm a cloud architect with 8 years of experience designing and building solution
 
 ### Background
 
-Before focusing on cloud technologies, my expertise included:
+I have over 30 years in IT, these are some of my past lives:
 
 - **Virtualization**: Enterprise virtualization platforms and architecture
 - **Linux & Unix**: System administration and engineering
