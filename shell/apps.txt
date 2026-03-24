@@ -1,0 +1,24 @@
+chromium
+firefox
+  plugins:
+    - Multi-Account Containers
+    - Nordpass
+    - Bonjourr
+docker
+vscode
+  plugins:
+    - python
+    - gh copilot
+    - flake8
+    - thunder client
+git
+aws cli
+gh cli
+rclone
+openvpn
+kdeconnect
+joplin
+nerd font (hack)
+starship.rs
+discord
+steam

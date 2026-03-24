@@ -1,0 +1,118 @@
+{
+  "logo": {
+    "type": "auto"
+  },
+  "display": {
+    "separator": "  "
+  },
+  "modules": [
+    {
+      "type": "custom",
+      "format": "\u001b[36m╭────────────────────────────────────────────────────────────────────────────────╮\u001b[0m"
+    },
+    {
+      "type": "title",
+      "key": "\u001b[36m│\u001b[0m \u001b[33m  user    \u001b[0m",
+      "format": "{user-name}"
+    },
+    {
+      "type": "title",
+      "key": "\u001b[36m│\u001b[0m \u001b[33m󰍹  host    \u001b[0m",
+      "format": "{host-name}"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[36m├────────────────────────────────────────────────────────────────────────────────┤\u001b[0m"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[36m│\u001b[0m \u001b[1m\u001b[32mSystem:\u001b[0m"
+    },
+    {
+      "type": "os",
+      "key": "\u001b[36m│\u001b[0m \u001b[32m  distro  \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "kernel",
+      "key": "\u001b[36m│\u001b[0m \u001b[32m  kernel  \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "uptime",
+      "key": "\u001b[36m│\u001b[0m \u001b[32m  uptime  \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "packages",
+      "key": "\u001b[36m│\u001b[0m \u001b[32m  packages\u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[36m├────────────────────────────────────────────────────────────────────────────────┤\u001b[0m"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[36m│\u001b[0m \u001b[1m\u001b[35mHardware:\u001b[0m"
+    },
+    {
+      "type": "cpu",
+      "key": "\u001b[36m│\u001b[0m \u001b[35m  cpu     \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "gpu",
+      "key": "\u001b[36m│\u001b[0m \u001b[35m  gpu     \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "memory",
+      "key": "\u001b[36m│\u001b[0m \u001b[35m  memory  \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "disk",
+      "key": "\u001b[36m│\u001b[0m \u001b[35m  disk    \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "bios",
+      "key": "\u001b[36m│\u001b[0m \u001b[35m󰢪  bios    \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[36m├────────────────────────────────────────────────────────────────────────────────┤\u001b[0m"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[36m│\u001b[0m \u001b[1m\u001b[34mNetwork:\u001b[0m"
+    },
+    {
+      "type": "publicip",
+      "key": "\u001b[36m│\u001b[0m \u001b[34m󰩟  public_ip\u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "localip",
+      "key": "\u001b[36m│\u001b[0m \u001b[34m󰩠  local_ip \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "dns",
+      "key": "\u001b[36m│\u001b[0m \u001b[34m󰇖  dns      \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "wifi",
+      "key": "\u001b[36m│\u001b[0m \u001b[34m  wifi     \u001b[0m",
+      "outputColor": "white"
+    },
+    {
+      "type": "custom",
+      "format": "\u001b[36m╰────────────────────────────────────────────────────────────────────────────────╯\u001b[0m"
+    }
+  ]
+}
+
