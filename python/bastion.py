@@ -16,8 +16,8 @@ as well as to setup port forwarding to access databases, web services, etc
 ##################################################
 # Custom Aliases & Functions
 alias bastion='~/bin/bastion.py'
-alias s-dev='~/bin/bastion.py -s -p devprofile'
-alias f-dev='~/bin/bastion.py -f -F db-dev-001.xxxxxxxxxxxxxxx.us-east-2.rds.amazonaws.com -p devprofile'
+alias sdev='~/bin/bastion.py -s -p devprofile'
+alias fdev='~/bin/bastion.py -f -F db-dev-001.xxxxxxxxxxxxxxx.us-east-2.rds.amazonaws.com -p devprofile'
 awshell() {
     ~/bin/bastion.py -s -p "$1"
 }
