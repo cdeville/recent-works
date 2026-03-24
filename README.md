@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an old unix grey beard with over 30 years in IT and and since 2018 I've been focused on cloud; primarily designing and building solutions in AWS.  When I'm not drinking coffee and writing code, I'm probably either playing video games, reading a fantasy novel, or binging something completely useless.  Hi!
+I'm a Unix grey beard with over 30 years in IT and and since 2018 I've been focused on cloud; primarily designing and building solutions in AWS.  When I'm not drinking coffee and writing code, I'm probably either playing video games, reading a fantasy novel, or binging something completely useless.  Hi!
 
 
 ## Currently
